@@ -10,6 +10,18 @@ func fun1() {
 	fmt.Print("hello")
 }
 
-func fun1() {
+func fun2() {
+	fmt.Print("hello")
+}
+
+func fun3() {
+	fmt.Print("hello")
+}
+
+func fun4() {
+	fmt.Print("hello")
+}
+
+func fun5() {
 	fmt.Print("hello")
 }
