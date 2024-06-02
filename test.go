@@ -21,7 +21,3 @@ func fun3() {
 func fun4() {
 	fmt.Print("hello")
 }
-
-func fun5() {
-	fmt.Print("hello")
-}
