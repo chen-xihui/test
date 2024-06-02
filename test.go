@@ -17,7 +17,3 @@ func fun2() {
 func fun3() {
 	fmt.Print("hello")
 }
-
-func fun4() {
-	fmt.Print("hello")
-}
